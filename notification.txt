@@ -1,0 +1,10 @@
+{
+"base_url":"https://www.baidu.com/",
+"new_url":"https://www.new_baidu.com",
+"new_version":"2018-4-9",
+"new_version_download_url":"https:download.com/demo.exe",
+"bar_urls":[
+"https://www.baidubar1.com/",
+"https://www.baidubar2.com/"
+]
+}
